@@ -16,4 +16,33 @@ I have taken an AQI dataset from Kaggle and performed some EDA on it as well as 
 
 * The dataset is taken from [Kaggle](https://www.kaggle.com/rohanrao/air-quality-data-in-india).
 * It contains air quality data and AQI (Air Quality Index) at hourly and daily level of various stations across multiple cities in India.
+* For this particular project, I have used just a part of the datasets provided in Kaggle, which contains day-wise city air pollution data.
+
+Libraries used:
+```
+1. Numpy
+2. Pandas
+3. Seaborn
+4. Chart Studio
+5. Plotly
+6. Pandas Profiling
+7. PyCaret
+
+```
+
+I have used Pandas Profiling for performing exploratory data analysis and PyCaret for performing the machine learning classification task. Below are their installation commands:
+
+```
+pip install pandas-profiling[notebook]
+
+or
+
+pip install https://github.com/pandas-profiling/pandas-profiling/archive/master.zip
+
+or
+
+conda install -c conda-forge pandas-profiling
+
+```
+
 

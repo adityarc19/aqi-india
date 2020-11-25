@@ -4,4 +4,4 @@
 
 ![aqi-logo][logo]
 
-[aqi-logo]: https://github.com/adityarc19/aqi-india/blob/main/images/logo.png?raw=true
+[logo]: https://github.com/adityarc19/aqi-india/blob/main/images/logo.png

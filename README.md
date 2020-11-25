@@ -92,6 +92,18 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 
 [e]: https://github.com/adityarc19/aqi-india/blob/main/images/min_pol_cities.png
 
+6. City wise pollutants analysis
+
+![city][i]
+
+[i]: https://github.com/adityarc19/aqi-india/blob/main/images/city-wise.png?raw=true
+
+7. Yearly analysis 
+
+![yearly][h]
+
+[h]: https://github.com/adityarc19/aqi-india/blob/main/images/yearly-analysis.png?raw=true
+
 ---
 
 ### Classification model used: Decision tree

@@ -59,4 +59,8 @@ pip install pycaret
 python -m ipykernel install --user --name yourenvname --display-name "display-name"
 ```
 
+### Some basic EDA
 
+![head][a]
+
+[a]: https://github.com/adityarc19/aqi-india/blob/main/images/df-head.png

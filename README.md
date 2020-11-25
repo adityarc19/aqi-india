@@ -60,7 +60,7 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 ```
 ---
 
-### Some basic EDA
+### * Some EDA
 
 **1. Dataframe**
 
@@ -108,9 +108,9 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 I would like to thank [Parul Pandey](https://www.kaggle.com/parulpandey) as well as [Naresh Bhat](https://www.kaggle.com/nareshbhat) for providing some amazing data exploration techniques from which I've pulled here.
 1. Parul Pandey's notebook: https://www.kaggle.com/parulpandey/breathe-india-covid-19-effect-on-pollution
 2. Naresh Bhat's notebook: https://www.kaggle.com/nareshbhat/air-quality-analysis-eda-and-classification
----
+------
 
-### Classification model used: Decision tree
+### * Classification model used: Decision tree
 
 I have used 'decision tree' as a classification model for this prediction problem based on the following results:
 

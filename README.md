@@ -1,4 +1,4 @@
-# Air Quality Index (AQI) across and cities in India
+# Air Quality Index (AQI) across stations and cities in India
 
 ![aqi-logo][logo]
 
@@ -42,6 +42,21 @@ pip install https://github.com/pandas-profiling/pandas-profiling/archive/master.
 or
 
 conda install -c conda-forge pandas-profiling
+```
+
+For PyCaret:
+```
+#create a conda environment
+conda create --name yourenvname python=3.6
+
+#activate environment
+conda activate yourenvname
+
+#install pycaret
+pip install pycaret
+
+#create notebook kernel connected with the conda environment
+python -m ipykernel install --user --name yourenvname --display-name "display-name"
 ```
 
 

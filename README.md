@@ -1,4 +1,4 @@
-# Air Quality Index (AQI) across stations and cities in India
+# Air Quality Index (AQI) across stations and cities in India from 2015 to 2020
 
 ![aqi-logo][logo]
 
@@ -15,7 +15,7 @@ I have taken an AQI dataset from Kaggle and performed some EDA on it as well as 
  6. Severe
 
 * The dataset is taken from [Kaggle](https://www.kaggle.com/rohanrao/air-quality-data-in-india).
-* It contains air quality data and AQI (Air Quality Index) at hourly and daily level of various stations across multiple cities in India.
+* It contains air quality data and AQI (Air Quality Index) at hourly and daily level of various stations across multiple cities in India from 2015 to 2020.
 * For this particular project, I have used just a part of the datasets provided in Kaggle, which contains day-wise city air pollution data.
 
 Libraries used:
@@ -58,9 +58,59 @@ pip install pycaret
 #create notebook kernel connected with the conda environment
 python -m ipykernel install --user --name yourenvname --display-name "display-name"
 ```
+---
 
 ### Some basic EDA
+
+1. Data head
 
 ![head][a]
 
 [a]: https://github.com/adityarc19/aqi-india/blob/main/images/df-head.png
+
+2. AQI bucket chart
+
+![bucket][b]
+
+[b]: https://github.com/adityarc19/aqi-india/blob/main/images/aqi-bucket-chart.png
+
+3. Pearson's correlations
+
+![corr][c]
+
+[c]: https://github.com/adityarc19/aqi-india/blob/main/images/pearson's-correlations.png
+
+4. Most polluted cities
+
+![pol][d]
+
+[d]: https://github.com/adityarc19/aqi-india/blob/main/images/max_pol_cities.png
+
+5. Least polluted cities
+
+![poll][e]
+
+[e]: https://github.com/adityarc19/aqi-india/blob/main/images/min_pol_cities.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

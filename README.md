@@ -6,7 +6,7 @@
 
 ------
 
-I have taken an AQI dataset from Kaggle and performed some EDA on it as well as implemented a decision tree classiifer to classify the air quality into one of the six buckets:
+I have taken an AQI dataset from Kaggle and performed some EDA on it as well as implemented a ***decision tree classiifer*** to classify the air quality into one of the six buckets:
  1. Good
  2. Moderate
  3. Satisfactory

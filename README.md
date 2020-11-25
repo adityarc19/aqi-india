@@ -105,8 +105,8 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 [h]: https://github.com/adityarc19/aqi-india/blob/main/images/yearly-analysis.png?raw=true
 
 ---
-***I would like to thank Parul Pandey as well as Naresh Bhat for providing some amazing data exploration techniques from which I've pulled here.
-1. Parul Pandey's notebook: https://www.kaggle.com/parulpandey/breathe-india-covid-19-effect-on-pollution
+***I would like to thank Parul Pandey as well as Naresh Bhat for providing some amazing data exploration techniques from which I've pulled here.***
+***1. Parul Pandey's notebook: https://www.kaggle.com/parulpandey/breathe-india-covid-19-effect-on-pollution***
 ***2. Naresh Bhat's notebook: https://www.kaggle.com/nareshbhat/air-quality-analysis-eda-and-classification***
 ---
 

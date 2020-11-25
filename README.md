@@ -14,6 +14,7 @@ I have taken an AQI dataset from Kaggle and performed some EDA on it as well as 
 5. Very Poor
 6. Severe
 
+
 * The dataset is taken from [Kaggle](https://www.kaggle.com/rohanrao/air-quality-data-in-india).
 * It contains air quality data and AQI (Air Quality Index) at hourly and daily level of various stations across multiple cities in India.
 

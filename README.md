@@ -98,6 +98,8 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 
 [i]: https://github.com/adityarc19/aqi-india/blob/main/images/city-wise.png?raw=true
 
+where BTX = Benzene + Toluene + Xylene
+
 **7. Yearly analysis**
 
 ![yearly][h]

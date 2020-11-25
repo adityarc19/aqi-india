@@ -62,7 +62,7 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 
 ### Some basic EDA
 
-1. Data head
+1. Dataframe
 
 ![head][a]
 
@@ -92,16 +92,24 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 
 [e]: https://github.com/adityarc19/aqi-india/blob/main/images/min_pol_cities.png
 
+---
+
+### Classification model used: Decision tree
+
+I have used 'decision tree' as a classification model for this prediction problem based on the following results:
+
+![mod][f]
+
+[f]: https://github.com/adityarc19/aqi-india/blob/main/images/model-comparisons.png
+
+Using decision tree for classification, confusion matrix for validation data:
+
+![cm][g]
+
+[g]: https://github.com/adityarc19/aqi-india/blob/main/images/confusion-matrix.png
 
 
-
-
-
-
-
-
-
-
+---
 
 
 

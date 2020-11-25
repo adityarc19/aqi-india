@@ -27,11 +27,11 @@ Libraries used:
 5. Plotly
 6. Pandas Profiling
 7. PyCaret
-
 ```
 
 I have used Pandas Profiling for performing exploratory data analysis and PyCaret for performing the machine learning classification task. Below are their installation commands:
 
+For Pandas Profiling:
 ```
 pip install pandas-profiling[notebook]
 
@@ -42,7 +42,6 @@ pip install https://github.com/pandas-profiling/pandas-profiling/archive/master.
 or
 
 conda install -c conda-forge pandas-profiling
-
 ```
 
 

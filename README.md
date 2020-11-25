@@ -62,48 +62,52 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 
 ### Some basic EDA
 
-1. Dataframe
+**1. Dataframe**
 
 ![head][a]
 
 [a]: https://github.com/adityarc19/aqi-india/blob/main/images/df-head.png
 
-2. AQI bucket chart
+**2. AQI bucket chart**
 
 ![bucket][b]
 
 [b]: https://github.com/adityarc19/aqi-india/blob/main/images/aqi-bucket-chart.png
 
-3. Pearson's correlations
+**3. Pearson's correlations**
 
 ![corr][c]
 
 [c]: https://github.com/adityarc19/aqi-india/blob/main/images/pearson's-correlations.png
 
-4. Most polluted cities
+**4. Most polluted cities**
 
 ![pol][d]
 
 [d]: https://github.com/adityarc19/aqi-india/blob/main/images/max_pol_cities.png
 
-5. Least polluted cities
+**5. Least polluted cities**
 
 ![poll][e]
 
 [e]: https://github.com/adityarc19/aqi-india/blob/main/images/min_pol_cities.png
 
-6. City wise pollutants analysis
+**6. City wise pollutants analysis**
 
 ![city][i]
 
 [i]: https://github.com/adityarc19/aqi-india/blob/main/images/city-wise.png?raw=true
 
-7. Yearly analysis 
+**7. Yearly analysis**
 
 ![yearly][h]
 
 [h]: https://github.com/adityarc19/aqi-india/blob/main/images/yearly-analysis.png?raw=true
 
+---
+***I would like to thank Parul Pandey as well as Naresh Bhat for providing some amazing data exploration techniques from which I've pulled here.
+1. Parul Pandey's notebook: https://www.kaggle.com/parulpandey/breathe-india-covid-19-effect-on-pollution
+***2. Naresh Bhat's notebook: https://www.kaggle.com/nareshbhat/air-quality-analysis-eda-and-classification***
 ---
 
 ### Classification model used: Decision tree
